@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcomestring">welcome to android studio</string>
+    <string name="button">submit</string>
+        <string name="title_activity_user">user</string>
+</resources>
